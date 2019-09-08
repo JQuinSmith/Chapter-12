@@ -1,0 +1,15 @@
+.flex-div{
+    display: flex;
+    flex-direction: row;
+}
+
+.article-left {
+    width: 50%;
+    border: solid blue;
+   
+}
+
+.article-right {
+    width: 50%;
+    border: solid red;
+}
